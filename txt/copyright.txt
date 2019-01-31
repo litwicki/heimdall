@@ -1,0 +1,15 @@
+<!--BEGIN COPYRIGHT-->
+
+<table width="100%" id="table1" cellspacing="0" cellpadding="10" style="border-top: 1px dotted #333333">
+	<tr>
+		<td valign="top"><font face="Verdana" size="1"><b>Heimdall version 1.0
+		<a href="legal.php">Copyright</a> 
+		© 2005.</b><br>
+		Network | Features | Site Map | Contact | Register!</font></td>
+		<td valign="top">
+		<p align="right"><a href="#top">
+		<img border="0" src="images/top_link.gif" width="63" height="9"></a></td>
+	</tr>
+</table>
+
+<!--END COPYRIGHT-->

@@ -1,0 +1,207 @@
+
+<head>
+<meta http-equiv="Content-Language" content="en-us">
+</head>
+
+<form method="POST" action="../_derived/nortbots.htm" webbot-action="--WEBBOT-SELF--" onSubmit="location.href='../_derived/nortbots.htm';return false;" webbot-onSubmit>
+	<!--webbot bot="SaveResults" U-File="../_private/form_results.csv" S-Format="TEXT/CSV" S-Label-Fields="TRUE" startspan --><input TYPE="hidden" NAME="VTI-GROUP" VALUE="0"><!--webbot bot="SaveResults" i-checksum="43374" endspan -->
+	<table border="0" id="table1" cellspacing="5" cellpadding="0">
+		<tr>
+			<td colspan="2"><b><font face="Verdana" size="2">ARMOR</font></b></td>
+		</tr>
+		<tr>
+			<td colspan="2"><b><font face="Verdana" size="1">ITEM STATISTICS</font></b></td>
+		</tr>
+		<tr>
+			<td>
+			<select size="1" name="stat" style="font-family: Verdana; font-size: 8pt">
+			<option selected>BLANK</option>
+			<option>STRENGTH</option>
+			<option>CONSTITUTION</option>
+			<option>DEXTERITY</option>
+			<option>QUICKNESS</option>
+			<option>PIETY</option>
+			<option>CHARISMA</option>
+			</select></td>
+			<td>
+			<input type="text" name="stat01" size="10" style="font-family: verdana; font-size: 8pt"></td>
+		</tr>
+		<tr>
+			<td>
+			<select size="1" name="stat0" style="font-family: Verdana; font-size: 8pt">
+			<option selected>BLANK</option>
+			<option>STRENGTH</option>
+			<option>CONSTITUTION</option>
+			<option>DEXTERITY</option>
+			<option>QUICKNESS</option>
+			<option>PIETY</option>
+			<option>CHARISMA</option>
+			</select></td>
+			<td>
+			<input type="text" name="stat02" size="10" style="font-family: verdana; font-size: 8pt"></td>
+		</tr>
+		<tr>
+			<td>
+			<select size="1" name="stat1" style="font-family: Verdana; font-size: 8pt">
+			<option selected>BLANK</option>
+			<option>STRENGTH</option>
+			<option>CONSTITUTION</option>
+			<option>DEXTERITY</option>
+			<option>QUICKNESS</option>
+			<option>PIETY</option>
+			<option>CHARISMA</option>
+			</select></td>
+			<td>
+			<input type="text" name="stat03" size="10" style="font-family: verdana; font-size: 8pt"></td>
+		</tr>
+		<tr>
+			<td>
+			<select size="1" name="stat2" style="font-family: Verdana; font-size: 8pt">
+			<option selected>BLANK</option>
+			<option>STRENGTH</option>
+			<option>CONSTITUTION</option>
+			<option>DEXTERITY</option>
+			<option>QUICKNESS</option>
+			<option>PIETY</option>
+			<option>CHARISMA</option>
+			</select></td>
+			<td>
+			<input type="text" name="stat04" size="10" style="font-family: verdana; font-size: 8pt"></td>
+		</tr>
+		<tr>
+			<td><font face="Verdana" size="1">Armor Type</font></td>
+			<td>
+			<select size="1" name="stat9" style="font-family: Verdana; font-size: 8pt">
+			<option selected>BLANK</option>
+			<option>Studded</option>
+			<option>Chain</option>
+			<option>Cloth</option>
+			<option>Leather</option>
+			</select></td>
+		</tr>
+		<tr>
+			<td><font face="Verdana" size="1">Absorb</font></td>
+			<td>
+			<input type="text" name="absorb" size="10" style="font-family: verdana; font-size: 8pt"></td>
+		</tr>
+		<tr>
+			<td><font size="1" face="Verdana">Quality</font></td>
+			<td>
+			<input type="text" name="quality" size="10" style="font-family: verdana; font-size: 8pt"></td>
+		</tr>
+		<tr>
+			<td><font size="1" face="Verdana">Level</font></td>
+			<td>
+			<input type="text" name="level" size="10" style="font-family: verdana; font-size: 8pt"></td>
+		</tr>
+	</table>
+	<p>
+	<input type="submit" value="ADD" name="B1" style="font-family: verdana; font-size: 8pt"></p>
+</form>
+
+<hr>
+<form method="POST" action="../_derived/nortbots.htm" webbot-action="--WEBBOT-SELF--" onSubmit="location.href='../_derived/nortbots.htm';return false;" webbot-onSubmit>
+	<!--webbot bot="SaveResults" U-File="../_private/form_results.csv" S-Format="TEXT/CSV" S-Label-Fields="TRUE" startspan --><input TYPE="hidden" NAME="VTI-GROUP" VALUE="1"><!--webbot bot="SaveResults" i-checksum="43406" endspan -->
+	<table border="0" id="table2" cellspacing="5" cellpadding="0">
+		<tr>
+			<td colspan="2"><b><font face="Verdana" size="2">WEAPON</font></b></td>
+		</tr>
+		<tr>
+			<td colspan="2"><b><font face="Verdana" size="1">ITEM STATISTICS</font></b></td>
+		</tr>
+		<tr>
+			<td>
+			<select size="1" name="stat5" style="font-family: Verdana; font-size: 8pt">
+			<option selected>BLANK</option>
+			<option>STRENGTH</option>
+			<option>CONSTITUTION</option>
+			<option>DEXTERITY</option>
+			<option>QUICKNESS</option>
+			<option>PIETY</option>
+			<option>CHARISMA</option>
+			</select></td>
+			<td>
+			<input type="text" name="stat01" size="10" style="font-family: verdana; font-size: 8pt"></td>
+		</tr>
+		<tr>
+			<td>
+			<select size="1" name="stat6" style="font-family: Verdana; font-size: 8pt">
+			<option selected>BLANK</option>
+			<option>STRENGTH</option>
+			<option>CONSTITUTION</option>
+			<option>DEXTERITY</option>
+			<option>QUICKNESS</option>
+			<option>PIETY</option>
+			<option>CHARISMA</option>
+			</select></td>
+			<td>
+			<input type="text" name="stat02" size="10" style="font-family: verdana; font-size: 8pt"></td>
+		</tr>
+		<tr>
+			<td>
+			<select size="1" name="stat7" style="font-family: Verdana; font-size: 8pt">
+			<option selected>BLANK</option>
+			<option>STRENGTH</option>
+			<option>CONSTITUTION</option>
+			<option>DEXTERITY</option>
+			<option>QUICKNESS</option>
+			<option>PIETY</option>
+			<option>CHARISMA</option>
+			</select></td>
+			<td>
+			<input type="text" name="stat03" size="10" style="font-family: verdana; font-size: 8pt"></td>
+		</tr>
+		<tr>
+			<td>
+			<select size="1" name="stat8" style="font-family: Verdana; font-size: 8pt">
+			<option selected>BLANK</option>
+			<option>STRENGTH</option>
+			<option>CONSTITUTION</option>
+			<option>DEXTERITY</option>
+			<option>QUICKNESS</option>
+			<option>PIETY</option>
+			<option>CHARISMA</option>
+			</select></td>
+			<td>
+			<input type="text" name="stat04" size="10" style="font-family: verdana; font-size: 8pt"></td>
+		</tr>
+		<tr>
+			<td><font face="Verdana" size="1">Weapon Type</font></td>
+			<td>
+			<font size="1">
+			<select size="1" name="stat10" style="font-family: Verdana; font-size: 8pt">
+			<option selected>BLANK</option>
+			<option>1H  - Main Only</option>
+			<option>1H  - Off Only</option>
+			<option>1H  - Either</option>
+			<option>Two Handed</option>
+			</select></font></td>
+		</tr>
+		<tr>
+			<td><font face="Verdana" size="1">DPS</font></td>
+			<td>
+			<font size="1">
+			<input name="wpn_dps" size="10" style="font-family: Verdana; "></font></td>
+		</tr>
+		<tr>
+			<td><font face="Verdana" size="1">Speed</font></td>
+			<td>
+			<font size="1">
+			<input name="wpn_spd" size="10" style="font-family: Verdana; "></font></td>
+		</tr>
+		<tr>
+			<td><font face="Verdana" size="1">Quality</font></td>
+			<td>
+			<font size="1">
+			<input name="quality" size="10" style="font-family: Verdana; "></font></td>
+		</tr>
+		<tr>
+			<td><font face="Verdana" size="1">Level</font></td>
+			<td>
+			<font size="1">
+			<input name="level" size="10" style="font-family: Verdana; "></font></td>
+		</tr>
+	</table>
+	<p>
+	<input type="submit" value="ADD" name="B2" style="font-family: verdana; font-size: 8pt"></p>
+</form>

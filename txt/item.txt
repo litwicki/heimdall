@@ -1,0 +1,48 @@
+<div align="right">
+									<table border="0" width="400" id="table58" cellspacing="5" cellpadding="5" height="200" style="border: 1px dotted #999999">
+										<tr>
+											<td valign="top" style="border-style: dashed; border-width: 1px">
+											<table border="0" width="100%" id="table59" cellpadding="5">
+												<tr>
+													<td colspan="2" bgcolor="#000000">
+													<font face="Verdana" size="2" color="#FF0000">
+													<b>Item Name</b></font></td>
+												</tr>
+												<tr>
+													<td>
+													<font face="Verdana" size="1">
+													Stats</font></td>
+													<td>
+													<font face="Verdana" size="1">
+													Stats</font></td>
+												</tr>
+												<tr>
+													<td>
+													<font face="Verdana" size="1">
+													Stats</font></td>
+													<td>
+													<font face="Verdana" size="1">
+													Stats</font></td>
+												</tr>
+												<tr>
+													<td>
+													<font face="Verdana" size="1">
+													Stats</font></td>
+													<td>
+													<font face="Verdana" size="1">
+													Stats</font></td>
+												</tr>
+												<tr>
+													<td>
+													<font face="Verdana" size="1">
+													Use 1</font></td>
+													<td>
+													<font face="Verdana" size="1">
+													Use 2</font></td>
+												</tr>
+											</table>
+											</td>
+										</tr>
+									</table>
+								</div>
+								

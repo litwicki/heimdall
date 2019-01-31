@@ -1,0 +1,76 @@
+<!--BEGIN NAVIGATION-->
+
+<table width="180" id="table1" cellspacing="5" cellpadding="0" style="border-right:1px dashed #000000; ">
+<tr>
+<td bgcolor="#333333" valign="top" height="20" style="padding-left: 5px; padding-top: 2px">
+<b>
+<font face="Verdana" color="#FFFFFF" style="font-size: 9pt">My Account</font></b></td>
+</tr>
+<tr>
+<td valign="top">
+
+
+<b><font face="verdana" size="1">
+<a href="edit_char.php">Characters</a></font></b></td>
+</tr>
+<tr>
+<td valign="top">
+
+
+<font face="Verdana" size="1">&lt;LOGIN STUFF&gt;</font></td>
+</tr>
+<tr>
+<td valign="top">
+
+
+<ul>
+	<li><font face="Verdana" size="1">
+	<a href="register.php">Register</a></font></li>
+<li><font face="Verdana" size="1">
+<a href="user_help.php">Lost 
+Password?</a></font></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td bgcolor="#333333" valign="top" height="20" style="padding-left: 5px; padding-top: 2px">
+<b>
+<font face="Verdana" color="#FFFFFF" style="font-size: 9pt">Heimdall Features</font></b></td>
+</tr>
+<tr>
+<td valign="top">
+<ul>
+<li><font face="Verdana" size="1"><a href="about.php">About</a></font></li>
+<li><font face="Verdana" size="1"><a href="tutorial.php">Tutorial</a></font></li>
+<li><font face="Verdana" size="1">
+<a href="faq.php">FAQ</a></font></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td height="800" valign="top">
+<hr size="1" color="666666">
+<p align="center">
+<script type="text/javascript"><!--
+google_ad_client = "pub-0826379302706777";
+google_ad_width = 120;
+google_ad_height = 600;
+google_ad_format = "120x600_as";
+google_ad_type = "text_image";
+google_ad_channel ="";
+google_color_border = "555555";
+google_color_bg = "555555";
+google_color_link = "999999";
+google_color_url = "DDDDDD";
+google_color_text = "CCCCCC";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</p>
+
+</td>
+</tr>
+</table>
+
+<!--END NAVIGATION-->
